@@ -4,17 +4,17 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url(https://i.pinimg.com/736x/7d/b6/e7/7db6e71087192ed0aac4ad227518f3e4.jpg); 
+    background-image: url(https://thumbs.web.sapo.io/?W=1200&H=627&crop=center&delay_optim=1&epic=Mjliwo1WpBy2sG7DO8atEK60/WEvL3c0MLRdp6zW6msSfvAiNp5D7VavZbPQ5HCjKz414ty8tUXtBcpcLhaDnRlTaOm+dx9oKsNEeQcOrDUpeHY=);
     background-size: cover; 
     background-position: center; 
     background-repeat: no-repeat;
-    font-family: 'Arial', sans-serif;
-    color: #ffffff;
+    font-family: Arial, sans-serif;
+    color: #feec78;
     text-align: center;
   }
   
   #mural {
-    background: rgba(0, 213, 255, 0.541); 
+    background:#375b9489;
     border: 3px solid #1a014693;
     border-radius: 15px;
     padding: 30px 50px;
